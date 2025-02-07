@@ -14,6 +14,6 @@ NEW MESSAGE
     Error: Cannot add ______@arkansas.gov as a Program Admin. To add 
         a user as a Program Admin, user must be already logged in as 
         a CiviForm Admin first. Please verify the user's login to ensure
-        they have the necessary admin permissions to begin. User will 
-        not have access to any program feature until granted access 
-        to a program.
+        they have the necessary admin permissions to begin. Note that
+        the user will not have access to any program feature until 
+        granted access to a program.
